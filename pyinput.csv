@@ -1,0 +1,3 @@
+10.252.255.25,show cdp neigh | ex (SEP|AP-)
+10.252.255.43,show cdp neigh | ex (SEP|AP-)
+10.252.255.26,show cdp neigh | ex (SEP|AP-)
